@@ -1,0 +1,14 @@
+{
+  "name": "typescript-portfolio",
+  "version": "1.0.0",
+  "description": "Interactive web portfolio built with TypeScript",
+  "main": "index.html",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "serve": "python -m http.server 8000"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
