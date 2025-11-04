@@ -1,6 +1,6 @@
 # Ajayi Taiwo John - Interactive TypeScript Portfolio
 
-A modern, responsive web portfolio showcasing my skills as a Full Stack Developer specializing in Python, Django, and modern JavaScript frameworks. Built with TypeScript featuring smooth animations, interactive components, and a clean design.
+A modern, responsive web portfolio showcasing my expertise as an Advanced Frontend Specialist with mastery in React, TypeScript, and cutting-edge frontend technologies. Built with TypeScript featuring smooth animations, interactive components, and exceptional user experience design.
 
 ## Features
 
@@ -88,7 +88,7 @@ A modern, responsive web portfolio showcasing my skills as a Full Stack Develope
 
 ## About Me
 
-Full Stack Developer specializing in Python, Django, and modern JavaScript frameworks, with extensive experience building, deploying, and maintaining scalable, high-performance web applications. Based in Lagos, Nigeria.
+Advanced Frontend Specialist with expertise in React, TypeScript, and modern JavaScript frameworks. I create exceptional user experiences through responsive design, performance optimization, and cutting-edge frontend technologies. Passionate about building scalable, accessible, and performant web applications. Based in Lagos, Nigeria.
 
 ## License
 

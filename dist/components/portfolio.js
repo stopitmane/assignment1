@@ -4,8 +4,8 @@ export class Portfolio {
             {
                 id: 1,
                 title: "Freshcart E-Commerce",
-                description: "E-commerce web app using Django REST API and React for seamless shopping experience",
-                technologies: ["Django", "React", "REST API", "Python"],
+                description: "Modern e-commerce frontend with React, featuring responsive design and seamless user experience",
+                technologies: ["React", "JavaScript", "CSS3", "Responsive Design"],
                 image: "https://via.placeholder.com/300x200/4f46e5/ffffff?text=Freshcart",
                 demoUrl: "https://freshcart-candy-com.vercel.app/",
                 githubUrl: "https://github.com/stopitmane"
@@ -13,26 +13,26 @@ export class Portfolio {
             {
                 id: 2,
                 title: "Crypto Tracker",
-                description: "Real-time cryptocurrency tracker using CoinGecko API and React",
-                technologies: ["React", "JavaScript", "API Integration", "CSS"],
+                description: "Real-time cryptocurrency dashboard with advanced React hooks, state management, and responsive charts",
+                technologies: ["React", "JavaScript", "Chart.js", "API Integration"],
                 image: "https://via.placeholder.com/300x200/059669/ffffff?text=Crypto+Tracker",
                 demoUrl: "https://crypto-tracker-wttp.vercel.app/",
                 githubUrl: "https://github.com/stopitmane"
             },
             {
                 id: 3,
-                title: "Blog Platform Backend",
-                description: "RESTful backend API built with Node.js and Express.js for managing blog posts, users, and comments",
-                technologies: ["Node.js", "Express.js", "MongoDB", "JWT"],
-                image: "https://via.placeholder.com/300x200/dc2626/ffffff?text=Blog+API",
+                title: "Book Review Platform",
+                description: "Interactive book review platform with modern UI/UX, featuring dynamic content and user authentication",
+                technologies: ["React", "CSS3", "JavaScript", "Responsive Design"],
+                image: "https://via.placeholder.com/300x200/dc2626/ffffff?text=Book+Reviews",
                 demoUrl: "https://express-book-reviews-teal.vercel.app/",
                 githubUrl: "https://github.com/stopitmane/blog-platform-backend.git"
             },
             {
                 id: 4,
                 title: "Progressive Web App",
-                description: "PWA built with Django REST API and TypeScript, featuring offline support and task synchronization",
-                technologies: ["Django", "TypeScript", "PWA", "Service Workers"],
+                description: "Advanced PWA with TypeScript, featuring offline-first architecture, service workers, and modern web APIs",
+                technologies: ["TypeScript", "PWA", "Service Workers", "IndexedDB"],
                 image: "https://via.placeholder.com/300x200/7c3aed/ffffff?text=PWA",
                 demoUrl: "https://pwa-task-9.vercel.app/",
                 githubUrl: "https://github.com/stopitmane"
@@ -40,8 +40,8 @@ export class Portfolio {
             {
                 id: 5,
                 title: "CV Builder App",
-                description: "Single-page CV Builder web app using Angular and TypeScript",
-                technologies: ["Angular", "TypeScript", "CSS", "HTML"],
+                description: "Dynamic CV builder with Angular, featuring real-time preview, drag-and-drop interface, and PDF export",
+                technologies: ["Angular", "TypeScript", "RxJS", "Material Design"],
                 image: "https://via.placeholder.com/300x200/f59e0b/ffffff?text=CV+Builder",
                 demoUrl: "https://cv-app-one-sable.vercel.app/",
                 githubUrl: "https://github.com/stopitmane"
@@ -49,8 +49,8 @@ export class Portfolio {
             {
                 id: 6,
                 title: "Product Dashboard",
-                description: "E-commerce dashboard built with responsive design and TypeScript for seamless shopping experience",
-                technologies: ["TypeScript", "React", "Dashboard", "Responsive"],
+                description: "Advanced analytics dashboard with React and TypeScript, featuring data visualization and interactive charts",
+                technologies: ["React", "TypeScript", "D3.js", "CSS Grid"],
                 image: "https://via.placeholder.com/300x200/10b981/ffffff?text=Dashboard",
                 demoUrl: "https://product-dashboard-task-drab.vercel.app/",
                 githubUrl: "https://github.com/stopitmane"
