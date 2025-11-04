@@ -3,30 +3,57 @@ export class Portfolio {
         this.projects = [
             {
                 id: 1,
-                title: "E-Commerce Platform",
-                description: "A full-stack e-commerce solution built with TypeScript, React, and Node.js",
-                technologies: ["TypeScript", "React", "Node.js", "MongoDB"],
-                image: "https://via.placeholder.com/300x200/4f46e5/ffffff?text=E-Commerce",
-                demoUrl: "#",
-                githubUrl: "#"
+                title: "Freshcart E-Commerce",
+                description: "E-commerce web app using Django REST API and React for seamless shopping experience",
+                technologies: ["Django", "React", "REST API", "Python"],
+                image: "https://via.placeholder.com/300x200/4f46e5/ffffff?text=Freshcart",
+                demoUrl: "https://freshcart-candy-com.vercel.app/",
+                githubUrl: "https://github.com/stopitmane"
             },
             {
                 id: 2,
-                title: "Task Management App",
-                description: "A collaborative task management application with real-time updates",
-                technologies: ["TypeScript", "Vue.js", "Socket.io", "PostgreSQL"],
-                image: "https://via.placeholder.com/300x200/059669/ffffff?text=Task+Manager",
-                demoUrl: "#",
-                githubUrl: "#"
+                title: "Crypto Tracker",
+                description: "Real-time cryptocurrency tracker using CoinGecko API and React",
+                technologies: ["React", "JavaScript", "API Integration", "CSS"],
+                image: "https://via.placeholder.com/300x200/059669/ffffff?text=Crypto+Tracker",
+                demoUrl: "https://crypto-tracker-wttp.vercel.app/",
+                githubUrl: "https://github.com/stopitmane"
             },
             {
                 id: 3,
-                title: "Weather Dashboard",
-                description: "Interactive weather dashboard with data visualization and forecasting",
-                technologies: ["TypeScript", "D3.js", "Express", "Weather API"],
-                image: "https://via.placeholder.com/300x200/dc2626/ffffff?text=Weather+App",
-                demoUrl: "#",
-                githubUrl: "#"
+                title: "Blog Platform Backend",
+                description: "RESTful backend API built with Node.js and Express.js for managing blog posts, users, and comments",
+                technologies: ["Node.js", "Express.js", "MongoDB", "JWT"],
+                image: "https://via.placeholder.com/300x200/dc2626/ffffff?text=Blog+API",
+                demoUrl: "https://express-book-reviews-teal.vercel.app/",
+                githubUrl: "https://github.com/stopitmane/blog-platform-backend.git"
+            },
+            {
+                id: 4,
+                title: "Progressive Web App",
+                description: "PWA built with Django REST API and TypeScript, featuring offline support and task synchronization",
+                technologies: ["Django", "TypeScript", "PWA", "Service Workers"],
+                image: "https://via.placeholder.com/300x200/7c3aed/ffffff?text=PWA",
+                demoUrl: "https://pwa-task-9.vercel.app/",
+                githubUrl: "https://github.com/stopitmane"
+            },
+            {
+                id: 5,
+                title: "CV Builder App",
+                description: "Single-page CV Builder web app using Angular and TypeScript",
+                technologies: ["Angular", "TypeScript", "CSS", "HTML"],
+                image: "https://via.placeholder.com/300x200/f59e0b/ffffff?text=CV+Builder",
+                demoUrl: "https://cv-app-one-sable.vercel.app/",
+                githubUrl: "https://github.com/stopitmane"
+            },
+            {
+                id: 6,
+                title: "Product Dashboard",
+                description: "E-commerce dashboard built with responsive design and TypeScript for seamless shopping experience",
+                technologies: ["TypeScript", "React", "Dashboard", "Responsive"],
+                image: "https://via.placeholder.com/300x200/10b981/ffffff?text=Dashboard",
+                demoUrl: "https://product-dashboard-task-drab.vercel.app/",
+                githubUrl: "https://github.com/stopitmane"
             }
         ];
     }
