@@ -1,6 +1,6 @@
-# Interactive TypeScript Portfolio
+# Ajayi Taiwo John - Interactive TypeScript Portfolio
 
-A modern, responsive web portfolio built with TypeScript featuring smooth animations, interactive components, and a clean design.
+A modern, responsive web portfolio showcasing my skills as a Full Stack Developer specializing in Python, Django, and modern JavaScript frameworks. Built with TypeScript featuring smooth animations, interactive components, and a clean design.
 
 ## Features
 
@@ -77,6 +77,18 @@ A modern, responsive web portfolio built with TypeScript featuring smooth animat
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
+
+## Contact
+
+- **Email**: ajayijohn19999@gmail.com
+- **Phone**: +234 (0)9160650495
+- **LinkedIn**: [Ajayi John](https://www.linkedin.com/in/ajayi-john-124970265)
+- **GitHub**: [stopitmane](https://github.com/stopitmane)
+- **Portfolio**: [groovyjwttp-portfolio.vercel.app](https://groovyjwttp-portfolio.vercel.app/)
+
+## About Me
+
+Full Stack Developer specializing in Python, Django, and modern JavaScript frameworks, with extensive experience building, deploying, and maintaining scalable, high-performance web applications. Based in Lagos, Nigeria.
 
 ## License
 
